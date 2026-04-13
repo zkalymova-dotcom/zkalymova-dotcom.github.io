@@ -32,7 +32,7 @@ baseurl: ""
 # Author profile information
 # -------------------------
 author:
-  avatar: "cropped-IMG_7717.jpg"    # Profile image file shown in the sidebar/profile area
+  avatar: "/assets/images/cropped-IMG_7717.jpg"    # Profile image file shown in the sidebar/profile area
   name: "Zarina Kalymova "
   bio: "Decision Making Professional."
   location: "TX"
