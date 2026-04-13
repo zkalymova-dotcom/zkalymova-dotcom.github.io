@@ -26,25 +26,25 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "lijingzhu1/lijingzhu1.github.io"
+# repository: "lijingzhu1/lijingzhu1.github.io"
 
 # -------------------------
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
-  name: "Lijing Zhu"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
+  avatar: "cropped-IMG_7717.jpg"    # Profile image file shown in the sidebar/profile area
+  name: "Zarina Kalymova "
+  bio: "Decision Making Professional."
   location: "TX"
-  employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  employer: "Master of Science in Data Science student"
+  email: "zkalymova@gmail.com"
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  #googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  # github: "zkalymova-dotcom"
+  #linkedin: "https://www.linkedin.com/in/zarina-kalymova-627067107/"
+  # orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
 # General behavior
