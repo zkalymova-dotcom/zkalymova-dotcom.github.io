@@ -32,8 +32,8 @@ baseurl: ""
 # Author profile information
 # -------------------------
 author:
-  avatar: "/assets/images/cropped-IMG_7717.jpg"    # Profile image file shown in the sidebar/profile area
-  name: "Zarina Kalymova "
+  avatar: "/images/cropped-IMG_7717.jpg"    # Profile image file shown in the sidebar/profile area
+  name: "Zarina Kalymova"
   bio: "Decision Making Professional."
   location: "TX"
   employer: "Master of Science in Data Science student"
